@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 559,
-    "timeDay": 559,
-    "timeWeek": 559,
-    "timeMonth": 559,
-    "timeYear": 559,
+    "time": 564,
+    "timeDay": 564,
+    "timeWeek": 564,
+    "timeMonth": 564,
+    "timeYear": 564,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 488,
-    "timeDay": 488,
-    "timeWeek": 488,
-    "timeMonth": 488,
-    "timeYear": 488,
+    "time": 512,
+    "timeDay": 512,
+    "timeWeek": 512,
+    "timeMonth": 512,
+    "timeYear": 512,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Teste de aviso",
+    "url": "https://jglopesdev.github.io/status-chav/teste-de-aviso",
+    "icon": "https://icons.duckduckgo.com/ip3/jglopesdev.github.io.ico",
+    "slug": "teste-de-aviso",
+    "status": "down",
+    "uptime": "65.66%",
+    "uptimeDay": "65.66%",
+    "uptimeWeek": "65.66%",
+    "uptimeMonth": "65.66%",
+    "uptimeYear": "65.66%",
+    "time": 49,
+    "timeDay": 49,
+    "timeWeek": 49,
+    "timeMonth": 49,
+    "timeYear": 49,
+    "dailyMinutesDown": {
+      "2026-10-13": 0
+    }
   }
 ]
