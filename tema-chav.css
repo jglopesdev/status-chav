@@ -1,0 +1,27 @@
+/* Cores de app/src/estilos/tokens.css do Chav */
+:root {
+  --body-background-color: #F4F7FB;
+  --body-text-color: #13223F;
+  --card-background-color: #FFFFFF;
+  --nav-background-color: #FFFFFF;
+  --nav-border-bottom-color: #DEE5EF;
+  --nav-current-border-bottom-color: #0EB3F6;
+  --card-border-color: #DEE5EF;
+  --down-border-left-color: #A3341F;
+  --down-background-color: #F6E7E1;
+  --degraded-border-left-color: #8A5D0A;
+  --up-border-left-color: #1C7A47;
+  --tag-color: #FFFFFF;
+  --tag-up-background-color: #1C7A47;
+  --tag-down-background-color: #A3341F;
+  --tag-degraded-background-color: #8A5D0A;
+  --change-background-color: #8A5D0A;
+  --error-button-border-color: #0F2D6D;
+  --error-button-background-color: #0F2D6D;
+  --error-button-color: #FFFFFF;
+  --submit-button-border-color: #0F2D6D;
+  --submit-button-background-color: #0F2D6D;
+  --submit-button-color: #FFFFFF;
+  --graph-opacity: 1;
+  --graph-filter: none;
+}
