@@ -22,7 +22,7 @@ status-website:
   introMessage: Situação do sistema e das cópias de segurança, verificada a cada 5 minutos. [Abrir o Chav](https://grupocomeri.chav.io)
   navbar:
     - title: Status
-      href: /
+      href: https://jglopesdev.github.io/status-chav/
     - title: Abrir o Chav
       href: https://grupocomeri.chav.io
 
