@@ -12,7 +12,7 @@ sites:
 
 status-website:
   baseUrl: /status-chav
-  theme: dark
+  themeUrl: https://jglopesdev.github.io/status-chav/tema-chav.css
   name: Chav
   logoUrl: https://jglopesdev.github.io/status-chav/chav.svg
   logoHref: https://grupocomeri.chav.io
