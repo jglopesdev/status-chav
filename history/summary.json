@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Chav — site",
+    "url": "https://grupocomeri.chav.io/api/health",
+    "icon": "https://icons.duckduckgo.com/ip3/grupocomeri.chav.io.ico",
+    "slug": "chav-site",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 572,
+    "timeDay": 572,
+    "timeWeek": 572,
+    "timeMonth": 572,
+    "timeYear": 572,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Chav — cópias",
+    "url": "https://grupocomeri.chav.io/api/chav/saude/copias",
+    "icon": "https://icons.duckduckgo.com/ip3/grupocomeri.chav.io.ico",
+    "slug": "chav-copias",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 535,
+    "timeDay": 535,
+    "timeWeek": 535,
+    "timeMonth": 535,
+    "timeYear": 535,
+    "dailyMinutesDown": {}
+  }
+]
