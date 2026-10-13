@@ -10,7 +10,7 @@ sites:
   - name: Chav — cópias
     url: https://grupocomeri.chav.io/api/chav/saude/copias
   - name: Teste de aviso
-    url: https://jglopesdev.github.io/status-chav/
+    url: https://jglopesdev.github.io/status-chav/teste-de-aviso
 
 status-website:
   baseUrl: /status-chav
