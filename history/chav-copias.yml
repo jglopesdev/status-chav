@@ -1,7 +1,7 @@
 url: https://grupocomeri.chav.io/api/chav/saude/copias
-status: up
-code: 200
-responseTime: 713
-lastUpdated: 2026-10-25T00:57:22.061Z
+status: down
+code: 503
+responseTime: 366
+lastUpdated: 2026-10-25T12:30:19.322Z
 startTime: 2026-10-13T13:18:21.509Z
 generator: Upptime <https://github.com/upptime/upptime>
