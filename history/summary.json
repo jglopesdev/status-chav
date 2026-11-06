@@ -4,12 +4,12 @@
     "url": "https://grupocomeri.chav.io/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/grupocomeri.chav.io.ico",
     "slug": "chav-site",
-    "status": "up",
-    "uptime": "96.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.74%",
-    "uptimeYear": "96.74%",
+    "status": "down",
+    "uptime": "96.84%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "96.84%",
+    "uptimeYear": "96.84%",
     "time": 532,
     "timeDay": 726,
     "timeWeek": 562,
@@ -18,7 +18,8 @@
     "dailyMinutesDown": {
       "2026-10-18": 390,
       "2026-10-22": 494,
-      "2026-10-23": 180
+      "2026-10-23": 180,
+      "2026-11-06": 5
     }
   },
   {
@@ -26,12 +27,12 @@
     "url": "https://grupocomeri.chav.io/api/chav/saude/copias",
     "icon": "https://icons.duckduckgo.com/ip3/grupocomeri.chav.io.ico",
     "slug": "chav-copias",
-    "status": "up",
-    "uptime": "96.02%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "96.16%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.02%",
-    "uptimeYear": "96.02%",
+    "uptimeMonth": "96.16%",
+    "uptimeYear": "96.16%",
     "time": 516,
     "timeDay": 755,
     "timeWeek": 602,
@@ -41,7 +42,8 @@
       "2026-10-18": 380,
       "2026-10-22": 489,
       "2026-10-23": 175,
-      "2026-10-25": 255
+      "2026-10-25": 255,
+      "2026-11-06": 0
     }
   }
 ]
